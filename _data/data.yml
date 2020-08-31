@@ -52,12 +52,12 @@ career-profile:
       with a background in wide variety of professional system support and solution-based IT services
       for Linux Systems (or administrations) including, monitoring, configuration, troubleshooting and maintenance of operating systems. 
 experiences:
-     - role: Linux System Administrator
+    - role: Linux System Administrator
       time: 2019 - 2020
       company: Khaje Nasir Toosi (K. N. Toosi) University of Technology, Tehran
       details: |
         Deployment and Maintenance of Nasircup International Robotics Competition Website and Match-up Network at nasircup.kn2c.ir
-     - role: Movement Communications Group Member
+    - role: Movement Communications Group Member
       time: 2019 - Present
       company: Wikimedia Foundation, San Fransisco
       details: |
@@ -72,16 +72,16 @@ experiences:
       company: Jaame Jam Persia Tour & Travel Agency, Tehran
       details: |
         Visa Expert with specialty in Schengen and NA area Visa Procedures. Setup Server Network for the Company as Well.
-     - role: Wikimedia Information Specialist
+    - role: Wikimedia Information Specialist
       time: 2016 - Present
       company: Wikimedia Foundation, San Fransisco
       details: |
-     - role: Communications Committee Member
+    - role: Communications Committee Member
       time: 2016 - 2019
       company: Wikimedia Foundation, San Fransisco
       details: |
        Advising for supporting, developing, and sharing information about communications efforts throughout the Wikimedia movement.
-     - role: Contributor
+    - role: Contributor
       time: 2014 - Present
       company: Wikimedia
       details: |
