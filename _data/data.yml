@@ -94,11 +94,11 @@ projects:
       Here are my public projects.
     assignments:
       - title: NasirCup Robotics Competition Website
-        link: "#nasircup.kn2c.ir"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "nasircup.kn2c.ir"
+        tagline: 
 
       - title: Foss4
-        link: "#"
+        link: 
         tagline: "Maintaining and Deploying Documentation Infrastructure and Service Deployment."
 skills:
     title: Skills &amp; Proficiency
